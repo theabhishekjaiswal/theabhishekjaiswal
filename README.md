@@ -96,9 +96,9 @@ I'm a skilled Android developer with a deep love for technology and coding. My e
 
 ## ⭐ Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theabhishekjaiswal&repo=Fire-Alarm-System&theme=dark&bg_color=0D1117&title_color=00BFFF&text_color=00BFFF&border_color=1E90FF)](https://github.com/theabhishekjaiswal/Fire-Alarm-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theabhishekjaiswal&repo=Moodify&theme=dark&bg_color=0D1117&title_color=00BFFF&text_color=00BFFF&border_color=1E90FF)](https://github.com/theabhishekjaiswal/Moodify)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theabhishekjaiswal&repo=Let-s-Connect&theme=dark&bg_color=0D1117&title_color=00BFFF&text_color=00BFFF&border_color=1E90FF)](https://github.com/theabhishekjaiswal/Let-s-Connect)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=theabhishekjaiswal&repo=Fire-Alarm-System&theme=dark&bg_color=0D1117&title_color=00BFFF&text_color=00BFFF&border_color=1E90FF)](https://github.com/theabhishekjaiswal/Fire-Alarm-System)
 
 ---
 
