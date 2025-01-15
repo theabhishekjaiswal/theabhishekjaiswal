@@ -21,7 +21,7 @@ I'm a skilled Android developer with a deep love for technology and coding. My e
 - 👯 I’m looking to collaborate on **Android projects with innovative features**
 - 💬 Ask me about **Java, Kotlin, Android Development, IoT**
 - ⚡ Fun fact: **I think, I am in Love with Java.**
-- 🏆 Highlight: **Successfully solved over 800+ problems on the Geeks for Geeks platform.**
+- 🏆 Highlight: **Successfully solved over 900+ problems on the Geeks for Geeks platform.**
 
 ---
 
