@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jaiswal</h1>
-<h3 align="center">A Passionate Android Developer from India</h3>
+<h3 align="center">A Passionate Android and Web Developer from India</h3>
 
 <p align="center">
   <img src="https://github-hero-readme.vercel.app/api?username=theabhishekjaiswal&linkedin=theabhishekjaiswal12&twitter=_abhi_jaiswal&description=Android%20Developer%20|%20Java%20&amp;%20Technology%20Enthusiast&theme=dark" alt="GitHub Hero" />
