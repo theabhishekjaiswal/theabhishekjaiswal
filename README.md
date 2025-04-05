@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jaiswal</h1>
-<h3 align="center">A Passionate Android and Web Developer from India</h3>
+<h3 align="center">A Passionate Full-Stack Web and Android Developer from India</h3>
 
 <p align="center">
-  <img src="https://github-hero-readme.vercel.app/api?username=theabhishekjaiswal&linkedin=theabhishekjaiswal12&twitter=_abhi_jaiswal&description=Android%20Developer%20|%20Java%20&amp;%20Technology%20Enthusiast&theme=dark" alt="GitHub Hero" />
+  <img src="https://github-hero-readme.vercel.app/api?username=theabhishekjaiswal&linkedin=theabhishekjaiswal12&twitter=_abhi_jaiswal&description=Android%20%7C%20Full-Stack%20Web%20Developer%20%7C%20JavaScript%20%7C%20MERN%20Stack&theme=dark" alt="GitHub Hero" />
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a skilled Android developer with a deep love for technology and coding. My expertise lies in building robust and user-friendly mobile applications using Java and Kotlin. While Android development is my primary focus, I also have experience with IoT technologies, which has broadened my understanding of interconnected systems and enhanced my problem-solving skills. I have a strong background in Data Structures and Algorithms (DSA), which helps me tackle complex coding challenges efficiently.
+I'm a curious and dedicated developer who loves building **robust mobile apps** and **scalable full-stack web applications**. I specialize in Android development using Java/Kotlin, and I also work extensively with the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** to create seamless, responsive, and user-centric web apps. I enjoy tackling complex problems with efficient solutions thanks to my strong foundation in **Data Structures and Algorithms**.
 
-- 🌱 I’m currently learning **Advanced Android Development**
-- 👯 I’m looking to collaborate on **Android projects with innovative features**
-- 💬 Ask me about **Java, Kotlin, Android Development, IoT**
-- ⚡ Fun fact: **I think, I am in Love with Java.**
-- 🏆 Highlight: **Successfully solved over 900+ problems on the Geeks for Geeks platform.**
+- 🌱 Currently learning **Next.js** and **Advanced Android Architecture**
+- 👯 Looking to collaborate on **Web & Android Projects with real-world impact**
+- 💬 Ask me about **MERN Stack, Android Development, Java, DSA**
+- ⚡ Fun fact: **I'm equally addicted to dark mode and debugging.**
+- 🏆 Highlight: **Solved 1000+ DSA problems on GeeksforGeeks**
 
 ---
 
@@ -48,51 +48,37 @@ I'm a skilled Android developer with a deep love for technology and coding. My e
 
 ### 👉 Programming Languages
 <p align="center">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
-### 👉 Frameworks and Tools
+### 👉 Frameworks, Libraries & Platforms
 <p align="center">
-  <a href="https://developer.android.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Android-%230097A7.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://img.shields.io/badge/Arduino-%230097A7.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  </a>
-  <a href="https://www.raspberrypi.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  </a>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Android-%230097A7.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
 </p>
 
-### 👉 Databases and Version Control
+### 👉 Tools & Version Control
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
 ## 📕 Latest Blog Posts
 
-⚡ Coming soon...
+⚡ Coming soon with tutorials on MERN Stack & Android tips...
+
+---
 
 ## ⭐ Featured Projects
 
@@ -106,24 +92,23 @@ I'm a skilled Android developer with a deep love for technology and coding. My e
 
 <p align="center">
   <a href="https://linkedin.com/in/theabhishekjaiswal12" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/_abhi_jaiswal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://instagram.com/theabhishek_jaiswal/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/theabhishek_jaiswal/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/theabhishek_jaiswal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
 
 ---
-
 
 ## ⚙️ GitHub Stats
 
